@@ -2,7 +2,7 @@
 
 ## Product Image
 
-<img src="./pictures/PM01.png" title="" alt="PM01_assembly" data-align="center">
+<img title="" src="./pictures/pm01.png" alt="PM01_assembly" data-align="center">
 
 ## Introduction
 
