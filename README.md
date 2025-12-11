@@ -2,7 +2,7 @@
 
 ## Product Image
 
-![PM01_assembly](./pictures/PM01.png)
+<img src="./pictures/PM01.png" title="" alt="PM01_assembly" data-align="center">
 
 ## Introduction
 
@@ -25,4 +25,4 @@ The module's main purpose is to serve as a power source for high-current servo m
 
 ## Size
 
-![PM01_assembly](./pictures/PM01_assembly.png)
+<img src="./pictures/PM01_assembly.png" title="" alt="PM01_assembly" data-align="center">
